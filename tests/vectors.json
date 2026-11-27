@@ -1,0 +1,22 @@
+[
+  {
+    "username": "test-user",
+    "password": "test-password",
+    "ip": "10.1.2.3",
+    "acid": "80",
+    "token": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+    "info": "{SRBX1}Yr5S/LEuRPzTyFy30NRORzYX/YbIU86pk3cXO5NapBx+ChJQuy0IPAEH9+D2rwRptqDNbA43WGT3t9uVcyODXzQlNKvPLiaehXXFuEwVbP0PAon+NGeYo8Kw5b/WFo0QUzs+g92mSYH=",
+    "hmd5": "1640d493b1d386c8e55033f4c87da91f",
+    "chksum": "3c6b5e567c0361c4b99c888cf9d225de52cd26e9"
+  },
+  {
+    "username": "test-user",
+    "password": "测试p&+😀",
+    "ip": "10.8.9.10",
+    "acid": "3",
+    "token": "abcdef0123456789abcdef0123456789abcdef0123456789abcdef0123456789",
+    "info": "{SRBX1}D91fgBzt9Fp3Ze5bx8YoFzC1hPrg0vbR6jJ8HqQ3gVcUPhsvzfbZJlB0iejSy11DrVo7oq4ReXAFgrKUL7C+QFT6u7YL7/vbTQ49J9BnhsY0fgd2oBvtPKxa4Fh+WhOPKscF9L==",
+    "hmd5": "42bed2237d316b9b0e89253471f96974",
+    "chksum": "51b5a592c63ef3f136131d6a802920a9ee4f7dfe"
+  }
+]

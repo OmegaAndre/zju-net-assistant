@@ -1,0 +1,10 @@
+/target/
+/dist/
+/work/
+*.exe
+*.log
+*.zip
+*.zip.sha256
+config.json
+diagnostics.txt
+memory.json
